@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "firstName": "Troy",
+    "lastName": "Deason",
+    "age": 40,
+    "subject": "Mathematics education"
+  },
+  {
+    "id": 4,
+    "firstName": "Lucila",
+    "lastName": "Pollock",
+    "age": 26,
+    "subject": "Art education"
+  }
+]
